@@ -1,8 +1,9 @@
 {
-  "name": "elasticsearch/elasticsearch",
+  "name": "runacorp/elasticsearch",
   "description": "PHP Client for Elasticsearch",
   "keywords": ["search","client", "elasticsearch"],
   "type": "library",
+  "minimum-stability": "stable",
   "license": "Apache-2.0",
   "authors": [
     {
